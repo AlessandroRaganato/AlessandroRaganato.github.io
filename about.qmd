@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Simorrrne"
 about:
   template: trestles
   image: profile.jpg
