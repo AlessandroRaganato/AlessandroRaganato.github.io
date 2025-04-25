@@ -2,24 +2,24 @@
 title: "Alessandro Raganato"
 about:
   template: jolla
-  image: profile.jpg
+  image: profile.jpeg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    #- icon: twitter
+    #  text: twitter
+    #  href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/AlessandroRaganato
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/alessandroraganato/
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=MlIGTbAAAAAJ&hl=en&oi=sra
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+PhD Student @ Georgia Institute of Technology
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+Address: 311 Ferst Dr, Atlanta, GA 30332, Office ES&T 3166
 
-Please feel free to get in touch!
+e-mail: araganato3@gatech.edu
