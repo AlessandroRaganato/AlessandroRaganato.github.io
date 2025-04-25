@@ -7,23 +7,30 @@ about:
     #- icon: twitter
     #  text: twitter
     #  href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=MlIGTbAAAAAJ&hl=en&oi=sra
+    - icon: ORCID
+      text: ORCID
+      href: https://orcid.org/0009-0009-1325-5831
+    - icon: github
+      text: Github
+      href: https://github.com/AlessandroRaganato
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alessandroraganato/
 ---
 
 ## Research Interests
-I work as a PhD student in the [Annalisa Bracco](https://sites.gatech.edu/annalisabracco/)'s group at the Georgia Institute of Technology. My studies focus on using **manifold learning** an **deep learning** to better understand and represent the dynamics of the **Atlantic Meridional Overturning Circulation (AMOC)**. In the past I also worked on advancing the understanding of tropical-to-extra-tropical atmospherical circulation.
+
+I am a Ph.D. student in [Annalisa Bracco](https://sites.gatech.edu/annalisabracco/)'s group at the Georgia Institute of Technology.  
+My research focuses on using **manifold learning** and **deep learning** to better understand and represent the dynamics of the **Atlantic Meridional Overturning Circulation (AMOC)**.  
+In the past, I also worked on advancing the understanding of tropical-to-extratropical atmospheric circulation.
 
 ## Education
 
-Before starting my PhD I worked for one year at the [ICTP](https://www.ictp.it/esp) as a junior researcher. I obtained my MSc in Physics at the [University of Trieste](https://df.units.it), and my BSc in Physics at the [La Sapienza University of Rome](https://www.phys.uniroma1.it/it).
+Before starting my Ph.D., I worked for one year at the [ICTP](https://www.ictp.it/esp) as a junior researcher.  
+I obtained my M.Sc. in Physics at the [University of Trieste](https://df.units.it), and my B.Sc. in Physics at [La Sapienza University of Rome](https://www.phys.uniroma1.it/it).
 
 ## My Sources of Inspiration
 

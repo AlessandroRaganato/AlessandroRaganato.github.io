@@ -7,15 +7,18 @@ about:
     #- icon: twitter
     #  text: twitter
     #  href: https://twitter.com
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=MlIGTbAAAAAJ&hl=en&oi=sra
+    - icon: ORCID
+      text: ORCID
+      href: https://orcid.org/0009-0009-1325-5831
     - icon: github
       text: Github
       href: https://github.com/AlessandroRaganato
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/alessandroraganato/
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=MlIGTbAAAAAJ&hl=en&oi=sra
 ---
 
 PhD Student @ Georgia Institute of Technology
