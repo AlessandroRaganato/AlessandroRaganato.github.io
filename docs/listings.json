@@ -2,7 +2,12 @@
   {
     "listing": "/research/index.html",
     "items": [
-      "/research/project-1.html",
+      "/research/project-1.html"
+    ]
+  },
+  {
+    "listing": "/research/index_publ.html",
+    "items": [
       "/research/paper-1.html"
     ]
   }

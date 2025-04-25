@@ -11,7 +11,7 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: publications/index.qmd
+      - href: research/index_publ.qmd
         text: Publications
       - href: cv_new.pdf
         text: CV
