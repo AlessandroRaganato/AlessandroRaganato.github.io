@@ -1,8 +1,8 @@
 ---
-title: "Simorrrne"
+title: "Alessandro"
 about:
   template: trestles
-  image: profile.jpg
+  image: profile.jpeg
   links:
     - icon: twitter
       text: twitter
