@@ -1,5 +1,5 @@
 ---
-title: "Alessandddddro Raganato"
+title: "Alessandro Raganato"
 about:
   template: jolla
   image: profile.jpeg
