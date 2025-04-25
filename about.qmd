@@ -4,9 +4,9 @@ about:
   template: trestles
   image: profile.jpeg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    #- icon: twitter
+    #  text: twitter
+    #  href: https://twitter.com
     - icon: github
       text: Github
       href: https://github.com
@@ -24,3 +24,9 @@ I work as a PhD student in the [Annalisa Bracco](https://sites.gatech.edu/annali
 ## Education
 
 Before starting my PhD I worked for one year at the [ICTP](https://www.ictp.it/esp) as a junior researcher. I obtained my MSc in Physics at the [University of Trieste](https://df.units.it), and my BSc in Physics at the [La Sapienza University of Rome](https://www.phys.uniroma1.it/it).
+
+## My Sources of Inspiration
+
+- [Dave Matthews Band](https://www.youtube.com/watch?v=oIQuQqhnLHw)
+- [Francesco Totti](https://www.youtube.com/watch?v=Yno95t7I-d4)
+- [Federico Fellini](https://en.wikipedia.org/wiki/Federico_Fellini)
