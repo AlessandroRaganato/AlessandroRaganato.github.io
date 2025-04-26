@@ -13,6 +13,8 @@ website:
         text: Research
       - href: research/index_publ.qmd
         text: Publications
+      - href: teaching/index.qmd
+        text: Teaching
       - href: cv_new.pdf
         text: CV
 
