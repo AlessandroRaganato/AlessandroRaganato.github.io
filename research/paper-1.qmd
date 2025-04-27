@@ -7,9 +7,12 @@ author:
 date: "January 15, 2025"
 Journal: "Journal of Climate"
 ---
-[Link to the publication](https://journals.ametsoc.org/view/journals/clim/38/2/JCLI-D-23-0703.1.xml?tab_body=pdf)
 
-Abstract: 
+**Journal:** *Journal of Climate*
+
+**Citation:** *Raganato, A., Abid, M. A., & Kucharski, F. (2025). The Combined Link of the Indian Ocean Dipole and ENSO with the North Atlantic–European Circulation during Early Boreal Winter in Reanalysis and the ECMWF SEAS5 Hindcast. Journal of Climate, 38(2), 445-460. [https://doi.org/10.1175/JCLI-D-23-0703.1](https://doi.org/10.1175/JCLI-D-23-0703.1)
+
+## Abstract: 
 
 During early boreal winter, the extratropical atmospheric circulation is influenced by Rossby waves propagating from the Indian Ocean toward the North Atlantic–European (NAE) regions, resulting in a North Atlantic Oscillation (NAO)-like pattern. The mechanisms driving these teleconnections are not well understood and are crucial for improving model skills. This study investigates these mechanisms using the ERA5 dataset and tests the predictive capabilities of the ECMWF SEAS5, exploring potential reasons for a weak model response. Linear regression methods are employed to examine the extratropical links with the Indian Ocean dipole (IOD), both in isolation and in combination with El Niño–Southern Oscillation (ENSO). Our findings demonstrate a connection between October IOD sea surface temperature anomalies and December Indian Ocean precipitation patterns. Furthermore, a correlation between the October IOD and December NAO time series suggests a link between the IOD and NAE circulation. The early winter European response to a positive IOD is characterized by a north–south precipitation dipole and a large positive surface air temperature anomaly. Positive feedback from transient eddy forcing reinforces the wavenumber-3-like propagation across extratropical regions, with ENSO playing a minor role compared to the IOD. This phenomenon is particularly evident in regions such as the North Pacific and North Atlantic, where wave energy propagation is intensified. Although SEAS5 replicates the NAO response, its magnitude is significantly weaker. The model struggles to simulate the delayed rainfall dipole response to the IOD accurately and shows structural discrepancies compared to reanalysis data.
 

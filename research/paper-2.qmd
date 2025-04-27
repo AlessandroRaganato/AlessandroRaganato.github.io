@@ -1,0 +1,16 @@
+---
+title: "Winter precipitation and storm activity response to Indian Ocean SST variability in the North Atlantic–European–Mediterranean Region"
+author: 
+  M. Reale, A. Raganato, F. D’Andrea, M. Adnan Abid, A. Hochman, N. R. Chowdhury, S. Salon, F. Kucharski
+
+date: ""
+Journal: ""
+---
+**Journal:** *(under review of Geophysical Research Letter)*
+
+**Date:** 2025
+
+## Abstract: 
+
+We study the response of winter precipitation and storm activity in the North Atlantic–European–Mediterranean region (NAEM) to the Autumn Indian Ocean Dipole (IOD) in the 1979-2019 period. In response to IOD, we find a positive NAO-like pressure dipole over NAEM, which appears in December and shifts westward through February. Indeed, IOD variability further shapes a dipole in precipitation variability, with shifts in total precipitation, frequency and duration of wet spells. The link between IOD and changes in the precipitation patterns is stronger at mid- than at higher latitudes. An increased cyclone activity is observed in the North Atlantic–European region, while the opposite is found in the Mediterranean region. Cyclone track density changes are mainly driven by Eady Growth Rate variations, linked to stronger vertical shear associated with an enhanced meridional temperature gradient. These findings reveal the IOD’s remote influence on NAEM weather variability with implications for subseasonal to climate predictions.
+
