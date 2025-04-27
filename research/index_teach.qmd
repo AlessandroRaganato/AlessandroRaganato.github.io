@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: "Teching Class"
 listing:
   type: default
   contents:
-    - "paper*.qmd"
+    - "class*.qmd"
 ---
