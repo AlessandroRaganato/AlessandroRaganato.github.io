@@ -3,6 +3,7 @@ title: "Alessandro"
 about:
   template: trestles
   image: profile2.jpg
+  image-width: 200px
   links:
     #- icon: twitter
     #  text: twitter
