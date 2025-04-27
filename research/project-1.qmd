@@ -1,9 +1,7 @@
 ---
-title: "My First Project"
-author: Simone
-date: "February 28, 2024"
+title: "Understanding AMOC dynamics with Manifold Learning"
+author: Alessandro Raganato & Annalisa Bracco
+date: ""
 ---
 
-A description of my project.
-
-Could include a photo, or links, or anything at all!
+This is the main project of my PhD research. We can interpret the interpret the Atlantic Meridional Overturning Circulation (AMOC) as a complex multidimensional dynamical system. Following Lucarini et al (2016), the dynamics of the AMOC is confined over a lower dimensional manifold.

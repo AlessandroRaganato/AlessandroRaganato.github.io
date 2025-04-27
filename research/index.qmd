@@ -1,9 +1,7 @@
 ---
-title: "Research"
+title: "Research Projects"
 listing:
   type: default
   contents:
     - "pro*.qmd"
 ---
-
-All of my research projects.
