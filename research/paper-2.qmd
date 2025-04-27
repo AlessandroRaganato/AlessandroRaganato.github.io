@@ -1,16 +1,22 @@
 ---
-title: "Winter precipitation and storm activity response to Indian Ocean SST variability in the North Atlantic–European–Mediterranean Region"
+title: "The Combined Link of the Indian Ocean Dipole and ENSO with the North Atlantic–European Circulation during Early Boreal Winter in Reanalysis and the ECMWF SEAS5 Hindcast"
 author: 
-  M. Reale, A. Raganato, F. D’Andrea, M. Adnan Abid, A. Hochman, N. R. Chowdhury, S. Salon, F. Kucharski
-
-date: ""
-Journal: ""
+  - Alessandro Raganato
+  - Muhammad Adnan Abid
+  - Fred Kucharski
+date: "January 15, 2025"
+Journal: "Journal of Climate"
 ---
-**Journal:** *(under review of Geophysical Research Letter)*
 
-**Date:** 2025
+**Journal:** *Journal of Climate*
+
+**Citation:** *Raganato, A., Abid, M. A., & Kucharski, F. (2025). The Combined Link of the Indian Ocean Dipole and ENSO with the North Atlantic–European Circulation during Early Boreal Winter in Reanalysis and the ECMWF SEAS5 Hindcast. Journal of Climate, 38(2), 445-460. [https://doi.org/10.1175/JCLI-D-23-0703.1](https://doi.org/10.1175/JCLI-D-23-0703.1)
 
 ## Abstract: 
 
-We study the response of winter precipitation and storm activity in the North Atlantic–European–Mediterranean region (NAEM) to the Autumn Indian Ocean Dipole (IOD) in the 1979-2019 period. In response to IOD, we find a positive NAO-like pressure dipole over NAEM, which appears in December and shifts westward through February. Indeed, IOD variability further shapes a dipole in precipitation variability, with shifts in total precipitation, frequency and duration of wet spells. The link between IOD and changes in the precipitation patterns is stronger at mid- than at higher latitudes. An increased cyclone activity is observed in the North Atlantic–European region, while the opposite is found in the Mediterranean region. Cyclone track density changes are mainly driven by Eady Growth Rate variations, linked to stronger vertical shear associated with an enhanced meridional temperature gradient. These findings reveal the IOD’s remote influence on NAEM weather variability with implications for subseasonal to climate predictions.
+During early boreal winter, the extratropical atmospheric circulation is influenced by Rossby waves propagating from the Indian Ocean toward the North Atlantic–European (NAE) regions, resulting in a North Atlantic Oscillation (NAO)-like pattern. The mechanisms driving these teleconnections are not well understood and are crucial for improving model skills. This study investigates these mechanisms using the ERA5 dataset and tests the predictive capabilities of the ECMWF SEAS5, exploring potential reasons for a weak model response. Linear regression methods are employed to examine the extratropical links with the Indian Ocean dipole (IOD), both in isolation and in combination with El Niño–Southern Oscillation (ENSO). Our findings demonstrate a connection between October IOD sea surface temperature anomalies and December Indian Ocean precipitation patterns. Furthermore, a correlation between the October IOD and December NAO time series suggests a link between the IOD and NAE circulation. The early winter European response to a positive IOD is characterized by a north–south precipitation dipole and a large positive surface air temperature anomaly. Positive feedback from transient eddy forcing reinforces the wavenumber-3-like propagation across extratropical regions, with ENSO playing a minor role compared to the IOD. This phenomenon is particularly evident in regions such as the North Pacific and North Atlantic, where wave energy propagation is intensified. Although SEAS5 replicates the NAO response, its magnitude is significantly weaker. The model struggles to simulate the delayed rainfall dipole response to the IOD accurately and shows structural discrepancies compared to reanalysis data.
 
+<!-- Insert an image at the very end -->
+<p align="center">
+  <img src="../fig.10.png" alt="Related Figure" style="width: 100%; border-radius: 10px;">
+</p>

@@ -11,5 +11,12 @@
       "/research/paper-1.html",
       "/research/paper-2.html"
     ]
+  },
+  {
+    "listing": "/research/index_publ_teach.html",
+    "items": [
+      "/research/paper-1.html",
+      "/research/paper-2.html"
+    ]
   }
 ]
