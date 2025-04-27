@@ -21,9 +21,16 @@ about:
       href: https://www.linkedin.com/in/alessandroraganato/
 ---
 
+I am a Ph.D. student in [Annalisa Bracco](https://sites.gatech.edu/annalisabracco/)'s group at the Georgia Institute of Technology.  
+
+My Group:
+<!-- Insert a second image below the profile picture -->
+<p align="center">
+  <img src="group.jpg" alt="Second Image" style="width: 100%; border-radius: 10px;">
+</p>
+
 ## Research Interests
 
-I am a Ph.D. student in [Annalisa Bracco](https://sites.gatech.edu/annalisabracco/)'s group at the Georgia Institute of Technology.  
 My research focuses on using **manifold learning** and **deep learning** to better understand and represent the dynamics of the **Atlantic Meridional Overturning Circulation (AMOC)**.  
 In the past, I also worked on advancing the understanding of tropical-to-extratropical atmospheric circulation.
 

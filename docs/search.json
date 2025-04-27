@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Alessandro",
     "section": "",
-    "text": "I am a Ph.D. student in Annalisa Bracco’s group at the Georgia Institute of Technology.\nMy research focuses on using manifold learning and deep learning to better understand and represent the dynamics of the Atlantic Meridional Overturning Circulation (AMOC).\nIn the past, I also worked on advancing the understanding of tropical-to-extratropical atmospheric circulation."
+    "text": "I am a Ph.D. student in Annalisa Bracco’s group at the Georgia Institute of Technology."
   },
   {
     "objectID": "about.html#education",
@@ -59,8 +59,8 @@
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "Alessandro",
-    "section": "",
-    "text": "I am a Ph.D. student in Annalisa Bracco’s group at the Georgia Institute of Technology.\nMy research focuses on using manifold learning and deep learning to better understand and represent the dynamics of the Atlantic Meridional Overturning Circulation (AMOC).\nIn the past, I also worked on advancing the understanding of tropical-to-extratropical atmospheric circulation."
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on using manifold learning and deep learning to better understand and represent the dynamics of the Atlantic Meridional Overturning Circulation (AMOC).\nIn the past, I also worked on advancing the understanding of tropical-to-extratropical atmospheric circulation."
   },
   {
     "objectID": "about.html#my-sources-of-inspiration",
