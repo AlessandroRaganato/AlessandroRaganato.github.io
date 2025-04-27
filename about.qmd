@@ -2,7 +2,7 @@
 title: "Alessandro"
 about:
   template: trestles
-  image: profile.jpeg
+  image: profile2.jpg
   links:
     #- icon: twitter
     #  text: twitter
