@@ -1,6 +1,6 @@
 ---
 title: "Understanding AMOC Dynamics with Manifold Learning"
-author: Alessandro Raganato & Annalisa Bracco
+author: Alessandro Raganato and Annalisa Bracco
 date: ""
 ---
 

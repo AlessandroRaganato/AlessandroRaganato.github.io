@@ -32,7 +32,7 @@
     "href": "research/index.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Understanding AMOC Dynamics with Manifold Learning\n\n\n\n\n\n\n\n\nAlessandro Raganato & Annalisa Bracco\n\n\n\n\n\nNo matching items"
+    "text": "Understanding AMOC Dynamics with Manifold Learning\n\n\n\n\n\n\n\n\nAlessandro Raganato and Annalisa Bracco\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Approaches for Modeling the AMOC Streamfunction\n\n\n\n\n\n\n\n\nAlessandro Raganato, Yongling Huang, Annalisa Bracco, Ali Sarhadi\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
@@ -74,7 +74,7 @@
     "href": "research/index_publ.html",
     "title": "Publications",
     "section": "",
-    "text": "The Combined Link of the Indian Ocean Dipole and ENSO with the North Atlantic–European Circulation during Early Boreal Winter in Reanalysis and the ECMWF SEAS5 Hindcast\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nAlessandro Raganato, Muhammad Adnan Abid, Fred Kucharski\n\n\n\n\n\n\n\n\n\n\n\n\nWinter precipitation and storm activity response to Indian Ocean SST variability in the North Atlantic–European–Mediterranean Region\n\n\n\n\n\n\n\n\nM. Reale, A. Raganato, F. D’Andrea, M. Adnan Abid, A. Hochman, N. R. Chowdhury, S. Salon, F. Kucharski\n\n\n\n\n\nNo matching items"
+    "text": "Winter precipitation and storm activity response to Indian Ocean SST variability in the North Atlantic–European–Mediterranean Region\n\n\n\n\n\n\n\n\nM. Reale, A. Raganato, F. D’Andrea, M. Adnan Abid, A. Hochman, N. R. Chowdhury, S. Salon, F. Kucharski\n\n\n\n\n\n\n\n\n\n\n\n\nThe Combined Link of the Indian Ocean Dipole and ENSO with the North Atlantic–European Circulation during Early Boreal Winter in Reanalysis and the ECMWF SEAS5 Hindcast\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nAlessandro Raganato, Muhammad Adnan Abid, Fred Kucharski\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html#references",
@@ -138,5 +138,19 @@
     "title": "Teching Class",
     "section": "",
     "text": "Intro-Environmental Sci - EAS-1600-A - SPRING 2024\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/project-2.html",
+    "href": "research/project-2.html",
+    "title": "Machine Learning Approaches for Modeling the AMOC Streamfunction",
+    "section": "",
+    "text": "This project is the main focus of my Ph.D. research.\nThe Atlantic Meridional Overturning Circulation (AMOC) can be interpreted as a complex, multidimensional dynamical system. Following Lucarini et al. (2016), we assume that the AMOC dynamics are confined to a lower-dimensional manifold (attractor).\nOur approach describes the AMOC using three key variables: streamfunction, freshwater transport, and potential temperature.\nStarting from this high-dimensional representation, we apply Isometric Mapping (Isomap) to construct a lower-dimensional manifold.\nThis enables us to study the system’s dynamics from a lower-dimensional perspective, similar to classical PCA, but with the crucial advantage of accounting for nonlinear relationships.\nBy applying local dimension (\\(d(\\zeta)\\)) and persistence (\\(\\Theta\\)) metrics, we characterize the dynamics of the attractor, following the methodology of Falasca and Bracco (2022).\nComparing these metrics across the three key variables also allows us to evaluate how much each variable contributes to the overall system dynamics.\nThrough this framework, we can compare model simulations and reanalysis datasets to assess whether, and to what extent, models correctly represent the relative importance of each key variable.\nPreliminary results, including comparisons between four reanalysis products and two E3SM simulations, are shown in the figures attached."
+  },
+  {
+    "objectID": "research/project-2.html#references",
+    "href": "research/project-2.html#references",
+    "title": "Machine Learning Approaches for Modeling the AMOC Streamfunction",
+    "section": "References",
+    "text": "References\n\nV. Lucarini, D. Faranda, A. C. M. Freitas, J. M. Freitas, T. Kuna, M. Holland, M. Nicol, M. Todd, S. Vaienti (2016). Extremes and Recurrence in Dynamical Systems. Wiley, New York https://doi.org/10.48550/arXiv.1605.07006\nFalasca, C., & Bracco, A. (2022). Exploring the Tropical Pacific Manifold in Models and Observations. Chaos: An Interdisciplinary Journal of Nonlinear Science, 32(6), 063105. https://doi.org/10.1103/PhysRevX.12.021054"
   }
 ]

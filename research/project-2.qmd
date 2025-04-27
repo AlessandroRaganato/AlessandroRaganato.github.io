@@ -1,0 +1,6 @@
+---
+title: "Machine Learning Approaches for Modeling the AMOC Streamfunction"
+author: Alessandro Raganato, Yongling Huang, Annalisa Bracco, Ali Sarhadi
+date: ""
+---
+

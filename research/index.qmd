@@ -3,5 +3,7 @@ title: "Research Projects"
 listing:
   type: default
   contents:
-    - "pro*.qmd"
+    - "project-1.qmd"
+    - "project-2.qmd"
+  sort: none
 ---

@@ -3,6 +3,8 @@ title: "Publications"
 listing:
   type: default
   contents:
-    - "paper*.qmd"
+    - "paper-1.qmd"
+    - "paper-2.qmd"
+  sort: none
 ---
 
