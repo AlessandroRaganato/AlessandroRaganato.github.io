@@ -6,7 +6,7 @@ author:
 date: ""
 Journal: ""
 ---
-**Journal:** *(under review of Geophysical Research Letter)*
+**Journal:** *(under review at the Geophysical Research Letter)*
 
 **Date:** 2025
 
