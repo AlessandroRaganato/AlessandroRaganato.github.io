@@ -14,7 +14,7 @@ website:
       - href: research/index_publ.qmd
         text: Publications
       - href: research/index_teach.qmd
-        text: Teaching
+        text: Teaching & Outreach
       - href: cv_new.pdf
         text: CV
 

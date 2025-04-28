@@ -1,7 +1,10 @@
 ---
-title: "Teching Class"
-listing:
-  type: default
-  contents:
-    - "class*.qmd"
+title: "Teaching & Outreach"
 ---
+- **Reviewed for**: *npj Climate and Atmospheric Science*
+- **March 2025**, APS March Meeting 2025 sponsored by GPC, @Anaheim, CA.           
+Session: *Statistical Methods and Extreme Events in Climate*                  
+Title: *Advancing the Understanding of AMOC Dynamics and Stability through Manifold Learning*
+- **August 2024**, CESM Tutorial 2024, @NCAR, Boulder, CO
+- **Spring 2024**, Teaching Assistant for *Introduction to Environmental Science (EAS-1600)*, @GeorgiaTech, Atlanta, GA
+- **October 2023**, ESP group internal seminar series: ”The impact of the Indian Ocean dipole on the North Atlantic-European circulation during early boreal winter: a study of ERA5 re-analysis and ECMWF-SEAS5”, @ICTP, Italy
